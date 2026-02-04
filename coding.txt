@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>New Year Party 2026</title>
+</head>
+
+<body bgcolor="#120524" text="#e0e0e0" link="#00d2ff" vlink="#d200ff" alink="#ffffff">
+    
+    <font face="Verdana, Arial, sans-serif">
+
+    <header>
+        <div align="center">
+            <br><br>
+            <h1 style="margin-bottom: 0; letter-spacing: 2px;">
+                <font color="#d200ff">NEW</font> <font color="#ffffff">YEAR PARTY</font> <font color="#00d2ff">2026</font>
+            </h1>
+            <p>
+                <font size="+1"><em>Celebrate the Future.</em> <mark>JOIN THE BASH</mark></font>
+            </p>
+            <br>
+        </div>
+    </header>
+
+    <nav>
+        <div align="center">
+            <a href="#vision" style="text-decoration: none; font-size: 18px;"><b>VISION</b></a> &nbsp;&nbsp;&nbsp;&bull;&nbsp;&nbsp;&nbsp;
+            <a href="#schedule" style="text-decoration: none; font-size: 18px;"><b>TIMELINE</b></a> &nbsp;&nbsp;&nbsp;&bull;&nbsp;&nbsp;&nbsp;
+            <a href="#media" style="text-decoration: none; font-size: 18px;"><b>MEDIA</b></a> &nbsp;&nbsp;&nbsp;&bull;&nbsp;&nbsp;&nbsp;
+            <a href="#register" style="text-decoration: none; font-size: 18px;"><b>GET TICKETS</b></a>
+            <br><br><br>
+        </div>
+    </nav>
+
+    <section>
+        <div align="center">
+            <table width="70%" bgcolor="#1a0b2e" cellpadding="20" cellspacing="0" style="border-radius: 15px;">
+                <tr>
+                    <td align="center">
+                        <font size="+1" color="#ffcc00">⚠ <strong>LATEST UPDATE</strong></font> <br><br>
+                        Early bird tickets closing in 2 hours! &nbsp;|&nbsp; 
+                        <strong>Dress Code:</strong> <em>Futuristic Glam</em>
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </section>
+
+    <br><br>
+
+    <section id="vision">
+        <div align="center">
+            <h2 style="letter-spacing: 2px;"><font color="#d200ff">🔮 MY VISION 2026</font></h2>
+            
+            <table width="70%" bgcolor="#1a0b2e" cellpadding="30" cellspacing="0" style="border-radius: 15px;">
+                <tr>
+                    <td>
+                        <table width="100%" border="0">
+                            <tr>
+                                <td width="50%" align="center" valign="top">
+                                    <font size="+1">
+                                        &starf; <strong>Travel Goals</strong><br>
+                                        <font color="#999">Visit Japan & Europe</font>
+                                    </font>
+                                    <br><br>
+                                    <font size="+1">
+                                        ♥ <strong>Health Goals</strong><br>
+                                        <font color="#999">Run a Marathon</font>
+                                    </font>
+                                </td>
+                                <td width="50%" align="center" valign="top">
+                                    <font size="+1">
+                                        ♦ <strong>Career Goals</strong><br>
+                                        <font color="#999">Master AI & Coding</font>
+                                    </font>
+                                    <br><br>
+                                    <font size="+1">
+                                        ♠ <strong>Family Goals</strong><br>
+                                        <font color="#999">Weekly Dinners</font>
+                                    </font>
+                                </td>
+                            </tr>
+                         </table>
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </section>
+
+    <br><br>
+
+    <section id="schedule">
+        <div align="center">
+            <h2 style="letter-spacing: 2px;"><font color="#00d2ff">⏳ THE TIMELINE</font></h2>
+            
+            <table width="70%" bgcolor="#1a0b2e" cellpadding="30" cellspacing="0" style="border-radius: 15px;">
+                <tr>
+                    <td>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="15">
+                            <tr bgcolor="#301b3f">
+                                <th align="left"><font color="#ffffff">TIME</font></th>
+                                <th align="left"><font color="#ffffff">EVENT</font></th>
+                                <th align="left"><font color="#ffffff">DETAILS</font></th>
+                            </tr>
+                            <tr><td colspan="3"><hr color="#444" size="1"></td></tr>
+                            <tr>
+                                <td><font size="+1">8:00 PM</font></td> 
+                                <td><font size="+1"><strong>Welcome</strong></font></td> 
+                                <td><font color="#aaa">Red Carpet Entry</font></td>
+                            </tr>
+                            <tr><td colspan="3"><hr color="#333" size="1"></td></tr>
+                            <tr>
+                                <td><font size="+1">10:00 PM</font></td> 
+                                <td><font size="+1"><strong>DJ Night</strong></font></td> 
+                                <td><font color="#aaa">Bass drops & Lasers</font></td>
+                            </tr>
+                            <tr><td colspan="3"><hr color="#333" size="1"></td></tr>
+                            <tr>
+                                <td><font size="+1">12:00 AM</font></td> 
+                                <td><font size="+1"><strong>Countdown</strong></font></td> 
+                                <td><font color="#aaa">Fireworks 🎆</font></td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </section>
+
+    <br><br>
+
+    <section id="media">
+        <div align="center">
+            <h2 style="letter-spacing: 2px;"><font color="#ffffff">🎥 MEDIA ZONE</font></h2>
+
+            <table width="70%" bgcolor="#1a0b2e" cellpadding="30" cellspacing="0" style="border-radius: 15px;">
+                <tr>
+                    <td align="center">
+                         <table width="100%" border="0">
+                            <tr>
+                                <td align="center" width="50%">
+                                    <h3>TEASER VIDEO</h3>
+                                    <video controls width="90%" style="border-radius: 10px; border: 1px solid #444;">
+                                        <source src="teaser.mp4" type="video/mp4">
+                                    </video>
+                                </td>
+                                <td align="center" width="50%">
+                                    <h3>EVENT LOCATION</h3>
+                                    <iframe src="http://googleusercontent.com/maps.google.com/3" width="90%" height="200" style="border-radius: 10px; border: 1px solid #444;"></iframe>
+                                </td>
+                            </tr>
+                         </table>
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </section>
+
+    <br><br>
+
+    <section id="register">
+        <div align="center">
+            <h2 style="letter-spacing: 2px;"><font color="#ff0099">🎟 GET TICKETS</font></h2>
+            
+            <table width="70%" bgcolor="#1a0b2e" cellpadding="35" cellspacing="0" style="border-radius: 15px;">
+                <tr>
+                    <td>
+                        <form action="/register" method="POST">
+                            
+                            <font size="+1" color="#00d2ff"><b>Full Name</b></font><br>
+                            <input type="text" name="name" required placeholder="Enter Name..." 
+                                   style="width: 100%; padding: 15px; margin-top: 8px; background: #2a1b3e; color: white; border: 1px solid #555; font-size: 16px; border-radius: 5px;">
+                            <br><br>
+
+                            <font size="+1" color="#00d2ff"><b>Email Address</b></font><br>
+                            <input type="email" name="email" required placeholder="Enter Email..." 
+                                   style="width: 100%; padding: 15px; margin-top: 8px; background: #2a1b3e; color: white; border: 1px solid #555; font-size: 16px; border-radius: 5px;">
+                            <br><br>
+
+                            <table width="100%" border="0">
+                                <tr>
+                                    <td width="50%">
+                                        <font size="+1"><b>Gender:</b></font><br><br>
+                                        <input type="radio" name="gender" value="m"> Male &nbsp;&nbsp;
+                                        <input type="radio" name="gender" value="f"> Female
+                                    </td>
+                                    <td width="50%">
+                                        <font size="+1"><b>Events:</b></font><br><br>
+                                        <input type="checkbox" name="evt" value="music"> Music &nbsp;&nbsp;
+                                        <input type="checkbox" name="evt" value="dinner"> Dinner
+                                    </td>
+                                </tr>
+                            </table>
+                            <br><br>
+
+                            <font size="+1" color="#00d2ff"><b>Ticket Category</b></font><br>
+                            <select name="ticket" style="width: 100%; padding: 12px; margin-top: 8px; background: #2a1b3e; color: white; border: 1px solid #555; font-size: 16px; border-radius: 5px;">
+                                <option>Standard Entry - $50</option>
+                                <option>VIP Access - $150</option>
+                                <option>Group Package</option>
+                            </select>
+                            <br><br><br>
+
+                            <div align="center">
+                                <input type="submit" value="CONFIRM REGISTRATION" 
+                                       style="background: linear-gradient(to right, #d200ff, #00d2ff); color: white; border: none; padding: 18px 50px; font-size: 18px; font-weight: bold; cursor: pointer; width: 100%; border-radius: 30px;">
+                            </div>
+                            
+                        </form>
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </section>
+
+    <br><br>
+
+    <section id="feedback">
+        <div align="center">
+            <h2 style="letter-spacing: 2px;"><font color="#999">💬 FEEDBACK</font></h2>
+            
+            <table width="70%" bgcolor="#1a0b2e" cellpadding="25" cellspacing="0" style="border-radius: 15px;">
+                <tr>
+                    <td align="center">
+                        <font color="#ccc">How was your experience?</font><br><br>
+                        <form>
+                            <select style="padding: 10px; background: #2a1b3e; color: white; border: 1px solid #555;">
+                                <option>5 Stars - Excellent</option>
+                                <option>4 Stars - Good</option>
+                                <option>3 Stars - Okay</option>
+                            </select>
+                            <br><br>
+                            <textarea rows="3" cols="50" placeholder="Type comments here..." style="padding: 10px; background: #2a1b3e; color: white; border: 1px solid #555;"></textarea>
+                            <br><br>
+                            <input type="submit" value="SEND REVIEW" style="background: #333; color: white; padding: 10px 20px; border: none; cursor: pointer;">
+                        </form>
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </section>
+
+    <br><br>
+
+    <footer align="center">
+        <hr width="100%" color="#333" size="1">
+        <br>
+        <p><small>
+            <font color="#777777">
+                © Email - harsh.cc@gmail.com  Contact - 9433475485<br>
+                <a href="#" style="color: #777777; text-decoration: none;">Instagram</a> | <a href="#" style="color: #777777; text-decoration: none;">Facebook</a>
+            </font>
+        </small></p>
+        <br>
+    </footer>
+
+    </font>
+</body>
+</html>
